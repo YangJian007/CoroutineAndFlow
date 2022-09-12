@@ -16,3 +16,4 @@ rootProject.name = "CoroutineAndFlow"
 include ':app'
 include ':coroutineTest'
 include ':coroutineexception'
+include ':flow'
